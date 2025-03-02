@@ -1,2 +1,2 @@
 # NewsPlace-
-create a website using react
+create a website using react 
